@@ -3,7 +3,7 @@ Data Workshop challenge 2
 
 # Checklist
 
-Day 1 
+Day 1 X
 
 Day 2 
 
